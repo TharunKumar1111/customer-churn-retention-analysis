@@ -1,0 +1,7 @@
+,rows
+missing total_charges,144
+contract text in lowercase,216
+payment_method extra spaces,144
+negative monthly_charges,40
+missing gender,108
+duplicate customer rows,60
