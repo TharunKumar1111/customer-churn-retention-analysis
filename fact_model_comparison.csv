@@ -1,4 +1,0 @@
-model,CV ROC-AUC mean,CV std,test_roc_auc,test_pr_auc
-Logistic regression,0.8221,0.0096,0.806,0.5788
-Random forest,0.8059,0.0089,0.791,0.5555
-Gradient boosting,0.8143,0.0101,0.8004,0.5599
