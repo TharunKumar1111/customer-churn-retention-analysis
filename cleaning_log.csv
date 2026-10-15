@@ -1,7 +1,0 @@
-step,rows
-Rows in raw file,7260
-Duplicate customers removed,60
-Negative monthly_charges fixed,40
-Missing total_charges imputed,144
-Missing gender labelled Unknown,108
-Rows in clean file,7200
